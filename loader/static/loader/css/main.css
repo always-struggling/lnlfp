@@ -1,4 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Questrial);
+
+body{
+        font-family: 'Questrial', sans-serif;
+}
+
 .file_outer{
         margin: 0 auto;
         width: 50%;
-    }
+}
+
+.errorlist{
+    color: #ee0000;
+    list-style-type: none;
+}
